@@ -1,2 +1,5 @@
 # landing_page
-entrainement page de présentation
+entrainements pages de présentation :
+html + css
+mise en page avec flexbox
+pratique des différentes notions vu jusqu'à présent
