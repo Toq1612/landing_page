@@ -1,0 +1,61 @@
+* {
+    margin: 0;
+}
+
+header, footer, .top {
+    display:flex;
+    background-color: #1F2937;
+}
+
+header {
+    justify-content: space-between;
+    padding: 12px 78px;
+    
+}
+
+.logo {
+    width: 60px;
+}
+
+ul {
+    display: flex;
+    list-style-type: none;
+    gap: 24px;
+}
+
+.top {
+    display: flex;
+
+}
+
+.top-left {
+    
+}
+
+h1 {
+    font-size: 48px;
+    color: #F9FAF8;
+    font-weight: 900;
+}
+
+h2 {
+    font-size: 36px;
+    color: #1F2937;
+    font-weight: 900;
+}
+
+.link, .subtitle {
+    color: #F9FAF8;
+    font-size: 18px;
+}
+
+.quote {
+    background-color: #E5E7EB;
+    font-size: 36px;
+    color: #1F2937;
+    font-weight: 300;
+}
+
+.action {
+    background-color: #3882F6;
+}
